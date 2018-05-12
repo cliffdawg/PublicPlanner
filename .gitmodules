@@ -1,0 +1,3 @@
+[submodule "PublicPlanner/PublicPlanner"]
+	path = PublicPlanner/PublicPlanner
+	url = https://github.com/cliffdawg/PublicPlanner/PublicPlanner.git
